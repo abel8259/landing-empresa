@@ -1,0 +1,925 @@
+/*DIA 01 - 03 DIAS*//*OK?[ OK ]*/ 
+/*DIA 02 - 03 DIAS*//*OK?[ OK ]*/ 
+/*DIA 03 - 03 DIAS*//*OK?[ OK ]*/ 
+
+/*DIA 01 - 05 DIAS*//*OK?[----]*/ 
+/*DIA 02 - 05 DIAS*//*OK?[----]*/ 
+/*DIA 03 - 05 DIAS*//*OK?[----]*/ 
+/*DIA 04 - 05 DIAS*//*OK?[----]*/ 
+/*DIA 05 - 05 DIAS*//*OK?[----]*/ 
+/* sessão on pc*/
+
+*{
+	margin:0;
+	padding:0;  
+	font-family: 'Manrope', sans-serif;
+}
+
+html,body{
+	height: 100%;
+}
+.container_TITLE{
+	height:8.5%;
+	width:100%;
+	background-color: #000; 
+}
+
+.imgcl{
+	left:9.3%;
+	position:absolute;
+	height:8.5%;
+}
+
+.imgtema{
+	position:absolute;
+	width:100%;
+	height:90%;
+}
+
+.container_los{
+	position:absolute;
+	top:25%;
+	background-color:rgba(5,5,5,0.7); 
+	left:7%;
+	padding-top:7%; 
+	padding-bottom: 7%; 
+	padding-left: 7%;
+	padding-right:17%;
+	display:inline-block; 
+}
+
+.container_los > ul > li{
+    font-size:20px;
+	color:white;
+}
+
+.container_los > ul > ol{
+    padding-top: 11px; 
+	color:#ccc;
+}
+
+
+.container_form_PC {
+	top:7.3%;
+	left:62%;
+	width:29%;
+	height:92%;
+	background-color: rgba(50,50,50,0.7); 
+	position:absolute;
+	 
+}
+
+
+.container_form_PC > form{
+	width:94%;
+	top:2.3%;
+	left:3%;
+	height:96%;
+
+	background-color: white;
+    position:absolute;
+}
+
+
+
+
+
+
+/*sessão form on pc*/ 
+
+ 
+
+.Titulo_textual{
+top:4.5%;
+left:30%;
+position:absolute;
+}
+
+
+.nome00{
+	top: 13%;
+	left: 20%;
+	position:absolute;
+} 
+
+
+.nome02{
+	top: 19%;
+	left: 20%;
+	width:60%;
+	position:absolute;
+
+} 
+
+
+.email00{
+	top: 26%;
+	left: 20%;
+	
+	position:absolute;
+
+} 
+
+.email02{
+	top: 32%;
+	left: 20%;
+	width:60%;
+	position:absolute;
+
+} 
+
+.telefone00{
+	top: 39%;
+	left: 20%;
+
+	position:absolute;
+}
+
+.telefone02{
+	top: 45%;
+	left: 20%;
+	width:60%;
+	position:absolute;
+
+} 
+
+
+.button{
+    top: 59%;
+	left: 20%;
+	width: 60%;
+	height:22%;
+	color:white;
+	background-color: black;  
+	position:absolute;
+
+}
+
+.button:hover{
+color:black;
+background-color:#ccc; 
+
+}
+/*sessão form on pc*/
+
+
+
+
+
+/*ELEMENTOS- section*/
+.section-about_PC{
+top:96.8%;
+height:38%;
+width:100%;
+background-color: black; 
+position:absolute;
+}
+
+
+
+.section-about_PC > span.title-pc-span-section{
+top:15%;
+left:calc(50% - 25px) ;
+position:absolute;
+color:white;
+font-weight:bold;
+}
+
+
+
+.section-about_PC > p.text-pc-p-section{
+top:18%;
+padding:50px; 
+position:absolute;
+color:white;
+}
+
+.img_cursor{
+left:calc(50% - 25px);
+top:132%;
+position:absolute;
+}
+/*ELEMENTOS- fim - section*/
+
+
+
+/* DICES */
+
+span.produtos{
+top:143%;	
+left:calc(50% - 45px);
+position: absolute;	
+font-size:20px;
+}
+
+
+
+
+.box0{
+	top:153%;
+	left:0%;
+	width:49%;
+	position: absolute;
+	margin:0;
+	padding:0;  
+	
+}
+
+.box2{
+	top:153%;
+	left:50%;
+	width:30%;
+	position: absolute;
+	margin:0;
+	padding:0;  
+    
+}
+
+
+
+
+/*left */
+.imgdice0{
+height:48%;
+width:98%;
+left:21%;
+top:40%;
+position:absolute;
+}
+
+
+.d20_0{
+width:45%;
+height:800%;
+opacity:0.3; 
+}
+
+
+.titulo_jogo_0{
+top:178%;
+left:34.5%;	
+position:absolute; 
+font-weight:bold;
+}
+
+
+
+.estilo_jogo_0{
+top:205%;
+left:36.8%;	
+position:absolute; 
+font-weight:bold;
+}
+
+.estado_jogo_0{
+top:231%;
+left:32.4%;	
+position:absolute;
+font-weight:bold;
+}
+/*FIM-left*/
+
+/*right*/
+
+
+.imgdice2{
+height:48%;
+width:98%;
+
+left:50%;
+top:40%;
+
+position:absolute;
+}
+
+
+.d20_2{
+width:45%;
+height:800%;
+width:76%;
+opacity:0.3; 
+}
+
+
+.titulo_jogo_2{
+top:178%;
+left:67.5%;	
+position:absolute; 
+font-weight:bold;
+width:60%;
+}
+
+
+
+.estilo_jogo_2{
+top:205%;
+left:68.5%;	
+position:absolute; 
+font-weight:bold;
+width:50%;
+}
+
+.estado_jogo_2{
+top:231%;
+left:77.4%;	
+position:absolute;
+font-weight:bold;
+}
+
+/*FIM-right*/
+
+/* fim DICES */
+
+
+/*FIM sessão on pc*/ 
+
+
+
+
+
+
+
+
+
+
+/*sessão on mob*//*MOBILE-PC*/
+
+.Titulo_textual02{
+top:4.5%;
+font-size:40px;
+text-align:center;
+		width:100%;
+position:absolute;
+}
+
+
+.nome03{
+	font-size:40px;
+	top: 13%;
+	left: 20%;
+	position:absolute;
+} 
+
+
+.nome04{
+	font-size:32px;
+	top: 19%;
+	left: 20%;
+	width:60%;
+	position:absolute;
+
+} 
+
+
+.email03{
+	font-size:40px;
+	top: 26%;
+	left: 20%;
+	
+	position:absolute;
+
+} 
+
+.email04{
+	font-size:32px;
+	top: 32%;
+	left: 20%;
+	width:60%;
+	position:absolute;
+
+} 
+
+.telefone03{
+	top: 39%;
+	left: 20%;
+    font-size:40px;
+	position:absolute;
+}
+
+.telefone04{
+	font-size:32px;
+	top: 45%;
+	left: 20%;
+	width:60%;
+	position:absolute;
+
+} 
+
+
+.button02{
+	font-size:50px;
+    top: 59%;
+	left: 20%;
+	width: 60%;
+	height:22%;
+	color:white;
+	background-color: black;  
+	position:absolute;
+
+}
+
+.button02:hover{
+color:black;
+background-color:#ccc; 
+
+}
+
+
+
+
+/*FIM sessão on mob*/
+
+/*ON pc - rights*/
+.linha{
+top:250%;
+height:0.4%;
+width:100%;
+background-color: black; 
+position:absolute;
+}
+
+.direct{
+top:262%;
+left:calc(50% - 70px);	
+position:absolute;
+font-weight:bold;
+}
+
+.co{
+top:266%;
+left:calc(50% - 30px);	
+position:absolute;
+font-weight:bold;
+margin-bottom: 5.7%; 
+}
+
+/*ON pc - FIM - rights*/
+
+
+
+
+
+/*sessão mobile*/ 
+/*mobile-desabilitado*/ 
+/*container*/
+.container_los-mob{display:none; }
+.cl-ul-mob{display:none; }
+.cl-li-mob{display:none; }
+.cl-ol-mob01{display:none; }
+.cl-ol-mob02{display:none; }
+.cl-ol-mob03{display:none; }
+/*FIM-container*/     
+/*section*/ 
+.section-about_mob{display:none; }
+.title-mob-span-section{display:none; }
+.img_cursor_mob {display:none; }
+.text-mob-p-section {display:none; }
+/*FIM-section*/ 
+/*form*/
+.container_form_mob {display:none; }
+.container_form_mob > form {display:none; }
+/*FIM-form*/
+/*dice-mob*/
+.box0-mob{display:none; }
+.imgdice0-mob{display:none; }
+.d20_0-mob{display:none; }
+.texto-dice-box_0-mob{display:none; }
+.titulo_jogo_0-mob{display:none; }
+.estilo_jogo_0-mob{display:none; }
+.estado_jogo_0-mob{display:none; }
+
+.produtos-mob{display:none; }
+
+.box2-mob{display:none; }
+.imgdice2-mob{display:none; }
+.d20_2-mob{display:none; }
+.texto-dice-box_2-mob{display:none; }
+.titulo_jogo_2-mob{display:none; }
+.estilo_jogo_2-mob{display:none; }
+.estado_jogo_2-mob{display:none; }
+.texto-dice-box_0-mob{display:none; }
+/*dice-mob-FIM*/
+/*on mob line rights*/
+.linha-mob{display:none; }
+.direct-mob{display:none; }
+.co-mob{display:none; }
+/*FIM on mob line rights*/
+/*FIM-mobile-desabilitado*/
+@media screen and (max-width: 982px) {
+	.cl-li{display:none; }
+	.cl-ul{display:none; }
+	.cl-ol{display:none; }
+	.container_los{display:none;}
+	
+	.img_cursor{display:none;}
+    .container_form_PC{display:none;}
+    .section-about_PC{display:none;}
+    .produtos{display:none;}  
+    /*dice-mob*/
+	.box0{display:none; }
+	.imgdice0{display:none; }
+	.d20_0{display:none; }
+	.texto-dice-box_0{display:none; }
+	.titulo_jogo_0{display:none; }
+	.estilo_jogo_0{display:none; }
+	.estado_jogo_0{display:none; }
+    
+	.produtos{display:none; }
+
+	.box2{display:none; }
+	.imgdice2{display:none; }
+	.d20_2{display:none; }
+	.texto-dice-box_2{display:none; }
+	.titulo_jogo_2{display:none; }
+	.estilo_jogo_2{display:none; }
+	.estado_jogo_2{display:none; }
+	/*dice-mob-FIM*/
+	/*line rights*/
+	.linha{display:none; }
+    .direct{display:none; }
+    .co{display:none; }
+    /*FIM line rights*/
+    /*Aqui você aplica as regras pra div com ID divMobile.
+    Essas regras serão aplicadas somente caso a tela do 
+    usuário tenha no máximo 380px. Isso você pode modificar
+	na regra cima.*/
+	
+	.cl-ul-mob{
+		top: 5%;
+		left:5%; 
+		position:absolute; 
+		width: 90%;
+		height: 90%;
+		display:block;
+	}
+	.cl-li-mob{
+		font-size: 40px;
+		color:white;
+		top: 5%;
+		text-align:center;
+		position:absolute; 
+		width: 98%;
+		height: 19%;
+		display:block;
+	}
+	
+	.cl-ol-mob01{
+		font-size: 40px;
+		color:white;
+		top: 25.8%;
+		left:39%;
+		position:absolute; 
+		width: 40%;
+		height: 19%;
+		display:list-item;
+		list-style-type: circle;
+	}
+	
+	.cl-ol-mob02{
+		font-size: 40px;
+		color:white;
+		top: 45%;
+		left:40%;
+		position:absolute; 
+		width: 40%;
+		height: 19%;
+		display:list-item;
+		list-style-type: circle;
+	}
+	
+	.cl-ol-mob03{
+		font-size: 40px;
+		color:white;
+		top: 65%;
+		left:34%;
+		position:absolute; 
+		width: 40%;
+		height: 19%;
+		display:list-item;
+		list-style-type: circle;
+	}
+	
+	.container_los-mob{
+		position:absolute;
+		top:25%;
+		background-color:rgba(5,5,5,0.7); 
+		left:7%;
+		
+		display:inline-block; 
+		width: 85%;
+		height:50%;
+	}
+
+
+
+   
+    .container_form_mob{
+		top:100%;
+		
+		left: 4%;
+
+		width:120%;
+		height:200%;
+        
+		background-color: rgba(50,50,50,0.7); 
+		position:absolute;
+	    display:block;  
+	    max-width:900px; 
+    }
+
+	.container_form_mob > form{
+		top: 4%;
+		left: 4%;
+
+		width:112%;
+		height:92%;
+
+		background-color: white;
+	    position:absolute;
+	    display:block;
+	    max-width:829px;  
+	}
+
+    /*ELEMENTOS- section- on mobile*/
+	
+	.section-about_mob{
+		top:303%;
+		height:200%;
+		width:100%;
+		background-color: black; 
+		position:absolute;
+		display:block;
+	}
+
+    
+   
+	.title-mob-span-section{
+		top:6%;
+		left:40% ;
+		position:absolute;
+		color:white;
+		font-weight:bold;
+		display:block;
+		font-size: 60px;
+	}
+
+
+
+	.section-about_mob > p.text-mob-p-section{
+		font-size: 60px;
+		top:18%;
+		padding:50px; 
+		position:absolute;
+		color:white;
+		display:block;
+		text-align: justify;
+	}
+	/*ELEMENTOS- fim- section- - on mobile*/
+    
+    /* DICES mob */
+    
+	span.produtos-mob{
+		top:515%;	
+		left:38%;
+		position: absolute;	
+		font-size:50px;
+		display:block;
+        color:black; 		
+	}
+
+
+
+    
+	.box0-mob{
+		top:533%;
+		left:0%;
+		width:100%;
+		height:70%;
+		position: absolute;   
+		display:block;  
+		 
+	}
+
+    
+	.box2-mob{
+		top:605%;
+		left:0%;
+		width:100%;
+		height:70%;
+		position: absolute;
+	    display:block; 
+			
+	}
+
+
+
+
+	/* left mob */
+	
+	.imgdice0-mob{
+		
+		width:96%;
+		height:92%;
+		left:2%;
+		top:4%;
+		position:absolute;
+		display:block; 
+		
+		
+	}
+    
+   
+
+	.d20_0-mob{
+		left:2%;
+		top:2%;
+		width:96%;
+		height:96%;
+		opacity:0.3; 
+		display:block; 
+		position:absolute;
+	}
+   
+    .texto-dice-box_0-mob{
+        top:15%;
+		left:4%;
+		width:92%;
+		height:70%;
+		position: absolute;
+		margin:0;
+		padding:0;  
+	    display:block; 
+	    /*background-color:purple;*/ 
+    
+
+    }
+
+
+   
+	.titulo_jogo_0-mob{
+		top:19%;
+		text-align:center;
+		width:100%;
+		height:90%;
+		font-size: 50px;	
+		position:absolute; 
+		font-weight:bold;
+		display:block; 
+		color:black;
+	}
+
+
+    
+	 .estilo_jogo_0-mob{
+		top:40%;
+		text-align:center;
+		width:100%;
+		height:90%;
+		font-size: 50px;	
+		position:absolute; 
+		font-weight:bold;
+		display:block; 
+		color:black;
+	}
+
+	.estado_jogo_0-mob{
+
+		top:60%;
+		text-align:center;
+		width:100%;
+		height:90%;
+		font-size: 50px;	
+		position:absolute; 
+		font-weight:bold;
+		display:block; 
+		color:black;
+	}
+	/* FIM-left mob */
+
+	/* right mob */
+
+   
+	.imgdice2-mob{
+		height:96%;
+		width:96%;
+
+		left:2%;
+		top:2%;
+		display:block;
+		position:absolute;
+		
+	}
+	
+	 .d20_2-mob{
+		left:2%;
+		top:2%;
+		width:96%;
+		height:96%;
+		opacity:0.3; 
+		display:block;  
+		position:absolute;
+	}
+	
+	.texto-dice-box_2-mob{
+		top:15%;
+		left:4%;
+		width:92%;
+		height:70%;
+		position: absolute;
+		  
+	    display:block; 
+		 
+	}
+    
+	
+
+
+	
+	.titulo_jogo_2-mob{
+		top:19%;
+		text-align:center;
+		width:100%;
+		height:90%;
+		font-size: 50px;	
+		position:absolute; 
+		font-weight:bold;
+		display:block; 
+		color:black;
+	}
+
+
+    
+	.estilo_jogo_2-mob{
+		top:40%;
+		text-align:center;
+		width:100%;
+		
+		height:90%;
+		font-size: 50px;	
+		position:absolute; 
+		font-weight:bold;
+		display:block; 
+		color:black;
+	}
+
+	.estado_jogo_2-mob{
+
+		top:60%;
+		text-align:center;
+        width:100%;
+		
+		height:90%;
+		font-size: 50px;	
+		position:absolute; 
+		font-weight:bold;
+		display:block; 
+		color:black;
+	}
+   /* 
+/*FIM-right-mob*/
+
+/* fim DICES-mob */
+
+/*ON mob - rights*/
+
+	.linha-mob{
+		top:703%;
+		left:0;
+		height:0.4%;
+		width:100%;
+		background-color: black; 
+		position:absolute;
+		display:block;
+	}
+
+	.direct-mob{
+		top:720%;
+		text-align:center; 	
+		position:absolute;
+		font-weight:bold;
+		display:block;
+		font-size: 50px;	
+		color:black;
+		width:100%;
+		height:20%;
+	}
+
+	.co-mob{
+		top:727%;
+		text-align:center;	
+		position:absolute;
+		font-weight:bold;
+		display:block;
+		font-size: 50px;	
+		color:black;
+		margin-bottom: 2%; 
+		width:100%;
+		height:20%;
+	}
+
+/*ON mob - FIM - rights*/
+/*FIM sessão on mob*/ 
+
+}
+/*fim da sessão mobile*/ 
+    
